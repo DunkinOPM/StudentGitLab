@@ -1,1 +1,1 @@
-# first word
+# first wordThis project demonstrates Git features.
